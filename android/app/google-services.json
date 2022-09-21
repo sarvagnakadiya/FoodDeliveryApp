@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722176955997",
+    "project_id": "ether-9898",
+    "storage_bucket": "ether-9898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722176955997:android:c9a86ca4752883639f9fb4",
+        "android_client_info": {
+          "package_name": "com.ether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722176955997-iq4kob0b76uk5aoiq0palb6os0f8doqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmhnKfDnKXIIpPERvzOJXKcIUQ4f81DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722176955997-iq4kob0b76uk5aoiq0palb6os0f8doqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
